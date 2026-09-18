@@ -4,7 +4,7 @@ Single-page marketing site for a Dubai truck and van tyre supplier. Contact and 
 
 ## Stack
 
-Plain HTML, CSS and a few lines of JavaScript. No frameworks, build step, web fonts or third-party scripts.
+Plain HTML, CSS and a few lines of JavaScript. No frameworks, build step or third-party scripts. Two typefaces (Barlow and Barlow Condensed, Open Font License) are self-hosted as latin-only woff2 files so nothing is loaded from Google.
 
 | File | Purpose |
 | --- | --- |
@@ -12,9 +12,10 @@ Plain HTML, CSS and a few lines of JavaScript. No frameworks, build step, web fo
 | `styles.css` | Styling (colours are CSS variables at the top of the file) |
 | `script.js` | Contact form handler (opens the visitor's email app with the message pre-filled) and footer year |
 | `assets/logos/*.svg` | Brand logos, minified, 0.8–9 KB each |
+| `assets/fonts/*.woff2` | Self-hosted typefaces, about 15 KB each |
 | `assets/favicon.svg` | Favicon |
 
-Total page weight is under 100 KB. Logos load lazily.
+Total page weight is about 115 KB uncompressed. Logos load lazily.
 
 ## Editing
 
