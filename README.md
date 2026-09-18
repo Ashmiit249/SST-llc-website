@@ -20,7 +20,7 @@ Total page weight is about 115 KB uncompressed. Logos load lazily.
 ## Editing
 
 - **Copy**: edit the text directly in `index.html`. Sections are marked with comments (Hero, About, Brands, Why us, Contact, Footer).
-- **Phone / email**: search `index.html` for `+971506250917` and `wxy7@hotmail.com`. The phone appears in `tel:` links and the email in `mailto:` links and in `script.js`.
+- **Phone / email**: search `index.html` for `+971558827290` and `wxy7@hotmail.com`. The phone appears in `tel:` links and the email in `mailto:` links and in `script.js`.
 - **Accent colour**: change `--accent` (buttons and links) and `--accent-light` (accent text on dark backgrounds) in `styles.css`.
 
 ## Brand logos
