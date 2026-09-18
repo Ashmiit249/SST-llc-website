@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sanjitsuritrading.com/sitemap.xml
